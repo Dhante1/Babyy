@@ -215,7 +215,7 @@ body {
 img {
   position: absolute;
   right: 822px; /* Adjust the positioning as needed */
-  top: 40%;
+  top: 48%;
   transform: translateY(-50%);
   width: 165px;
   height: auto;
