@@ -215,7 +215,7 @@ body {
 img {
   position: absolute;
   right: 822px; /* Adjust the positioning as needed */
-  top: 55.5%;
+  top: 50%;
   transform: translateY(-50%);
   width: 165px;
   height: auto;
@@ -226,7 +226,7 @@ img {
 #img1 {
   position: absolute;
   right: 165px; /* Adjust the positioning as needed */
-  top: 47%;
+  top: 49%;
   width: 210px;
   height: auto;
   border-radius: 30px; /* Maintains aspect ratio */
